@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="title01">Title</string>
+    <string name="date01">Date</string>
+    <string name="desc01">Description</string>
+    <string name="btn_add">ADD</string>
+    <string name="btn_add2">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="edit">EDIT</string>
+    <string name="date02">Date</string>
+    <string name="description02">Description</string>
+    <string name="title02">Title</string>
+    <color name="transparent_color">#00000000</color>
+</resources>
